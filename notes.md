@@ -1,0 +1,4 @@
+- proof of work is incrementing nonce till you get a hash that start with the needed number of Zeros
+- proof of work is adapting the block by incrementing the nonce till it have the good hash that start with the needed number of Zeros
+- adding an index to a block prevent copying that block and having the same content for more than one block
+- **nonce** is the variable inside the block that miners adjust till they get the good hash
